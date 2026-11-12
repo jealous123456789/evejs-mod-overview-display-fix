@@ -1,0 +1,47 @@
+{
+  "author": {
+    "id": "au-mvgf59rqpaue",
+    "keyId": "6d218baa968e",
+    "name": "普罗旺斯煎饼果子"
+  },
+  "category": "修复",
+  "changelog": "",
+  "conflicts": [
+    "evejs-slimitem-name-wstring"
+  ],
+  "delisted": false,
+  "description": "修复太空中总览分类标签无法正确显示目标的问题。目标、挖矿、跃迁等分类恢复按类别显示，切换标签后也能正常刷新。",
+  "displayName": "总览显示修复",
+  "downloadUrls": [
+    {
+      "mirror": "github",
+      "priority": 1,
+      "url": "https://github.com/jealous123456789/evejs-mod-overview-display-fix/releases/download/v1.0.0/overview-display-fix-1.0.0.zip"
+    }
+  ],
+  "evejsVersions": [
+    "261028.x",
+    "261108.x"
+  ],
+  "featured": false,
+  "highlights": [
+    "修复太空中总览分类标签无法正确显示目标的问题。目标、挖矿、跃迁等分类恢复按类别显示，切换标签后也能正常刷新。"
+  ],
+  "history": [],
+  "id": "overview-display-fix",
+  "publishedAt": "2026-11-12",
+  "readme": [
+    "版本：1.0.0",
+    "修复太空中总览分类标签无法正确显示目标的问题。"
+  ],
+  "repo": "https://github.com/jealous123456789/evejs-mod-overview-display-fix",
+  "requiresRestart": true,
+  "sha256": "ca96fba83a0d890f932fc30be107acb76a549d5eba0dd314c15541de667d927f",
+  "sizeBytes": 15730,
+  "tags": [
+    "总览",
+    "显示",
+    "修复"
+  ],
+  "version": "1.0.0"
+}
