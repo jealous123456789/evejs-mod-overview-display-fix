@@ -5,7 +5,7 @@
     "name": "普罗旺斯煎饼果子"
   },
   "category": "修复",
-  "changelog": "适配261115.2服务端",
+  "changelog": "适配261125.3和261126.2服务端",
   "conflicts": [
     "evejs-slimitem-name-wstring"
   ],
@@ -16,13 +16,15 @@
     {
       "mirror": "github",
       "priority": 1,
-      "url": "https://github.com/jealous123456789/evejs-mod-overview-display-fix/releases/download/v1.0.1/overview-display-fix-1.0.1.zip"
+      "url": "https://github.com/jealous123456789/evejs-mod-overview-display-fix/releases/download/v1.0.2/overview-display-fix-1.0.2.zip"
     }
   ],
   "evejsVersions": [
     "261028.x",
     "261108.x",
-    "261115.x"
+    "261115.x",
+    "261125.x",
+    "261126.x"
   ],
   "featured": false,
   "highlights": [
@@ -30,19 +32,19 @@
   ],
   "history": [],
   "id": "overview-display-fix",
-  "publishedAt": "2026-11-17",
+  "publishedAt": "2026-11-27",
   "readme": [
     "版本：1.0.0",
     "修复太空中总览分类标签无法正确显示目标的问题。"
   ],
   "repo": "https://github.com/jealous123456789/evejs-mod-overview-display-fix",
   "requiresRestart": true,
-  "sha256": "510471405be991f889d83b20ad079cec471475e33811f5e98d9b43418609b146",
-  "sizeBytes": 16272,
+  "sha256": "dd760f40485f37f8792fc9ddd18dccc1cbf1f8be59e45a664440acef2cd29825",
+  "sizeBytes": 21244,
   "tags": [
     "总览",
     "显示",
     "修复"
   ],
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
